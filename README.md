@@ -8,7 +8,7 @@ Welcome to my **Codewars Solutions** repository! This repo contains my personal 
    ```bash
    git clone https://github.com/YoanYord/CodeWars_Solutions.git
 
-2. **Browse through the files to find solutions to different challenges. Each file typically includes:**:
+2. **Browse through the files to find solutions to different challenges. Each file typically includes:**
 - A brief description of the problem (as a comment or link)
 - My solution in JavaScript
 
